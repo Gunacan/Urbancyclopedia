@@ -17,4 +17,4 @@ For this project, you will build a light application that reads data, has end-to
 
 ### Submission
 
-Add a link to your code [here](#), and your deployed site [https://urbancyclopedia.firebaseapp.com/](#).
+Add a link to your code [https://github.com/Gunacan/galvanize-frontend-app/tree/master/drills/version-1](#), and your deployed site [https://urbancyclopedia.firebaseapp.com/](#).
