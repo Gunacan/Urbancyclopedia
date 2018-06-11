@@ -119,6 +119,30 @@ h3, .summary {
   font-size: larger;
 }
 
+.card-footer {
+  width: 100%;
+  height: 10%;
+  margin-bottom: 2%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ a {
+  color: #0f5696;
+  font-family: helvetica;
+  text-decoration: none;
+  /* text-transform: uppercase; */
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  color: black;
+}
+
 footer {
   background: rgba(207, 211, 214, 0.67);
   display: flex;

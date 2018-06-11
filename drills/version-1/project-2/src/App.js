@@ -8,11 +8,10 @@ class App extends Component {
   constructor(props){
     super(props)
     this.state = {
-      cities: [],
-      moreInfo: []
-    }
+      cities: []
+    }    
   }
-
+  
   
   componentDidMount = () => {
     fetch('https://api.teleport.org/api/urban_areas/?embed=ua:item/ua:images')
