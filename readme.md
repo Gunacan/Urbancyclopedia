@@ -1,3 +1,3 @@
 # Urbancyclopedia
 
-![site image] (siteImg.png)
+![site image] (siteimg.png)
